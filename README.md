@@ -1,6 +1,6 @@
 # filewatch
 
-Watches for changes in LINKED_DEPENDENCY_PATH, when change is detected to any file a write to package.json in PROJECT_PATH is triggered.
+Watches for changes in ```LINKED_DEPENDENCY_PATH```, when change is detected to any file a write to package.json in ```PROJECT_PATH``` is triggered.
 
 ## Setup
 
